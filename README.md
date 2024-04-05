@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Henry
 - 👀 I’m interested in ... frontend developing
-- 🌱 I’m currently learning ... Frontend
 - 💞️ I’m looking to collaborate on ...Fullstack
-- 📫 How to reach me ... 8164244783
+- 📫 How to reach me ... 816 8442656
 - 
 
 <!---
